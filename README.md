@@ -1,2 +1,1 @@
-# print-user-message
-print user message
+This is print the user string module

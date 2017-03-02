@@ -1,0 +1,23 @@
+{
+  "name": "print-user-message",
+  "version": "1.0.2",
+  "description": "A small library providing utility methods to print user message",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunmohan/print-user-message.git"
+  },
+  "keywords": [
+    "print",
+    "message"
+  ],
+  "author": "mohan <sunmohan286@gmail.com> (https://github.com/sunmohan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunmohan/print-user-message/issues"
+  },
+  "homepage": "https://github.com/sunmohan/print-user-message#readme"
+}
